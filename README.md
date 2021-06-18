@@ -1,5 +1,5 @@
 # Synergistic  interventions to control COVID-19: mass testing and isolation mitigates reliance on distancing
-This repository contains code to reproduce results in Howerton et al. *Submitted*. 
+This repository contains code to reproduce results in Howerton et al. *Submitted*. All code is licensed under the CC-BY-NC Creative Commons attribution-noncommercial license (http://creativecommons.org/licenses/by-nc/3.0/).
 
 ## Code structure
     code
