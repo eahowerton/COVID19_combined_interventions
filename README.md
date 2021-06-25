@@ -3,7 +3,7 @@ This repository contains code to reproduce results in Howerton et al. *Submitted
 
 ## Code structure
     code
-    ├── LICENSE ?
+    ├── LICENSE
     ├── Makefile
     ├── src
     │   ├── analysis
